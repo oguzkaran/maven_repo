@@ -2,3 +2,7 @@
 #java
 #spring
 #springboot
+#javaee
+#android
+#mobilr
+#maven
