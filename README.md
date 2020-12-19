@@ -4,5 +4,5 @@
 #springboot
 #javaee
 #android
-#mobilr
+#mobile
 #maven
